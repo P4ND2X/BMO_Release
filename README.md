@@ -18,13 +18,6 @@
 * ~Finished exams: NOW I AM READY!!~ `6/28/2022`
 * ~Add Quiz panel/Rank system/Chat System~ `8/11/2022`
 * ~77% Proccess Done!~ `8/27/2022`
-* ~80% Proccess Done!~ `9/6/2022`
-* ~82% Proccess Done!~ `10/11/2022`
-* ~84% Proccess Done!~ `10/16/2022`
-* ~87% Proccess Done!~ `10/22/2022`
-* ~90% Proccess Done!~ `11/11/2022`
-* ~93% Proccess Done!~ `11/23/2022`
-* ~94% Proccess Done!~ `11/30/2022`
 * ~My 18th birthday 🎈~ `12/14/2022`
 * ~90% - Decided to change the WHOLE UI/Add new animations~  `1/21/2023`
 * ~94% - Created this repo & self-update~ `2/7/2023`
@@ -47,6 +40,3 @@
 * Help center [Password reset/Contact teachers/Contact dev].
 * Self-update.
 * Ease of use.
-
-# Disclaimer 💯
-* **THIS REPO IS JUST A BETA TEST. I AM NOT RESPONSIBLE IF YOU HAVE USED IT IN A BAD WAY.**
